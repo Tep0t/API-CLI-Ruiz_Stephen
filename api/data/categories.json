@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Accessories",
+    "description": "Useful accessories for computers and laptops"
+  },
+  {
+    "id": 2,
+    "name": "Cables and Chargers",
+    "description": "Cables, adapters, and charging equipment"
+  },
+  {
+    "id": 3,
+    "name": "Home and Office",
+    "description": "Everyday items for home and office use"
+  }
+]

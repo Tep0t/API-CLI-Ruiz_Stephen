@@ -1,0 +1,10 @@
+{
+  "name": "inventory-cli",
+  "version": "1.0.0",
+  "description": "CLI client for the inventory management system (Phase 3)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "commonjs"
+}
