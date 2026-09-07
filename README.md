@@ -7,7 +7,7 @@ This is an individual laboratory project for an Inventory Management System. A N
 ## Developer Information
 
 - Developer: Stephen Ruiz
-- Course/Program: BSIT
+- Course/Program: BSIT3-T2
 - Project type: Individual Laboratory Activity
 
 ## Technologies Used
